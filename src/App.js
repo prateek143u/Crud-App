@@ -53,7 +53,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1>CRUD APP </h1>
+      <h1>Inventory APP </h1>
       <div className="flex-row">
         <div className="flex-large">
           {editing ? (
